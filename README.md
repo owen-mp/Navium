@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/owen-mp/Navium/blob/main/img/logo.png?raw=true" style="width: 50px; height: 50px">
+    <img src="https://github.com/owen-mp/Navium/blob/main/img/logo.png?raw=true" style="width: 100px; height: 100px">
 </p>
 
 **Navium** is a high-performance browser automation library that leverages Chromium's DevTools Protocol (CDP) for direct communication, bypassing traditional WebDriver setups. This allows Navium to offer blazing fast speeds and lower overhead, making it ideal for developers and testers who need quick and efficient browser control. Navium was created to explore the inner workings of browser automation libraries like Playwright.
